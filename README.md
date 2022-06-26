@@ -1,1 +1,1 @@
-![gif](./asset/init.gif)
+![carbon](./asset/carbon.png)
